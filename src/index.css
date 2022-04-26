@@ -1,0 +1,18 @@
+/** @format */
+@font-face {
+  font-family: e-regular;
+  src: url(fonts/Epilogue-Regular.ttf);
+}
+
+@font-face {
+  font-family: e-medium;
+  src: url(fonts/Epilogue-Medium.ttf);
+}
+
+@font-face {
+  font-family: e-bold;
+  src: url(fonts/Epilogue-Bold.ttf);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
